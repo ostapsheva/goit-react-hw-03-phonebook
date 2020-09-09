@@ -1,0 +1,7 @@
+.container {
+  width: 500px;
+  margin: 75px auto 0;
+  border: 2px solid blueviolet;
+  border-radius: 10px;
+  text-align: center;
+}
